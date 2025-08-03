@@ -2,5 +2,7 @@ python-telegram-bot==20.3
 pdfminer.six==20221105
 python-pptx==0.6.21
 transformers==4.31.0
-torch==2.0.1
+torch==2.7.1
+accelerate
+sentencepiece
 regex
